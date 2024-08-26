@@ -1,0 +1,89 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void FollowCamera_Start_m6A939FEE19956FCB5D04C644E25F2C1E16451EDF (void);
+extern void FollowCamera_Update_m7F27B438BF442E57A4634CC05DCDCF073BA762BA (void);
+extern void FollowCamera__ctor_m34E276CE6734948A2EF28412E342BB823F8FB69C (void);
+extern void MoveCube_Update_m0574C9E56F6FB71D7B9F457EDD0629B3C95AB910 (void);
+extern void MoveCube_OnEnable_m23071C0CE0B5DB27A00E5309E748826B34CEFA95 (void);
+extern void MoveCube_OnDisable_m0357A74C63196ACAC0F24E1108A7320E5C5742A5 (void);
+extern void MoveCube__ctor_mD97FBAAA425C4FAB3323D25CAB7EC00A3CD23F43 (void);
+extern void RaycastColorChange_Update_m1CF07DADDFE6D94ADE5318A63E3423447D276B49 (void);
+extern void RaycastColorChange_OnCollisionEnter_mCAA0F5EB1F33635C2697CD90E471D8D1E108B354 (void);
+extern void RaycastColorChange_OnCollisionExit_mABD8DCA6E01263718F1570F081DF0879CBAA4778 (void);
+extern void RaycastColorChange__ctor_mB4B24213B17E0315047C38EAB66AE8298A384D51 (void);
+extern void RotateSphere_Start_m707BD780A924946EEFC1D32B7FFF64218A1CA02E (void);
+extern void RotateSphere_Update_m06E9CE6D734EF12774D87151DE31282BEF0EDCDE (void);
+extern void RotateSphere__ctor_mA16377C1BD2B5BB7943B306705A8FBC8AB2C2E08 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[16] = 
+{
+	FollowCamera_Start_m6A939FEE19956FCB5D04C644E25F2C1E16451EDF,
+	FollowCamera_Update_m7F27B438BF442E57A4634CC05DCDCF073BA762BA,
+	FollowCamera__ctor_m34E276CE6734948A2EF28412E342BB823F8FB69C,
+	MoveCube_Update_m0574C9E56F6FB71D7B9F457EDD0629B3C95AB910,
+	MoveCube_OnEnable_m23071C0CE0B5DB27A00E5309E748826B34CEFA95,
+	MoveCube_OnDisable_m0357A74C63196ACAC0F24E1108A7320E5C5742A5,
+	MoveCube__ctor_mD97FBAAA425C4FAB3323D25CAB7EC00A3CD23F43,
+	RaycastColorChange_Update_m1CF07DADDFE6D94ADE5318A63E3423447D276B49,
+	RaycastColorChange_OnCollisionEnter_mCAA0F5EB1F33635C2697CD90E471D8D1E108B354,
+	RaycastColorChange_OnCollisionExit_mABD8DCA6E01263718F1570F081DF0879CBAA4778,
+	RaycastColorChange__ctor_mB4B24213B17E0315047C38EAB66AE8298A384D51,
+	RotateSphere_Start_m707BD780A924946EEFC1D32B7FFF64218A1CA02E,
+	RotateSphere_Update_m06E9CE6D734EF12774D87151DE31282BEF0EDCDE,
+	RotateSphere__ctor_mA16377C1BD2B5BB7943B306705A8FBC8AB2C2E08,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[16] = 
+{
+	5242,
+	5242,
+	5242,
+	5242,
+	5242,
+	5242,
+	5242,
+	5242,
+	4162,
+	4162,
+	5242,
+	5242,
+	5242,
+	5242,
+	7763,
+	5242,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	16,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
